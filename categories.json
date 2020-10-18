@@ -373,5 +373,11 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+  
+  {
+    "name": "Infrastructure",
+    "slug": "Infrastructure",
+    "description": "projects focused on building blockchain infrastructure"
   }
 ]
