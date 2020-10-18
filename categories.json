@@ -373,5 +373,11 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
-  }
+  },
+  {
+    "name": "Gaming",
+    "slug": "Gaming",
+    "description": "projects focused on Web3 games"
+  },
+  
 ]
